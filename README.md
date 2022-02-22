@@ -1,4 +1,4 @@
-Names Arguments are a feature that many languages lack. Some call it [Feature Envy.](https://www.fluentcpp.com/2018/12/14/named-arguments-cpp/)
+Named Arguments are a feature that many languages lack. Some call it [Feature Envy.](https://www.fluentcpp.com/2018/12/14/named-arguments-cpp/)
 
 # The Problem
 You have a ```menu()``` method that prints out a 5 option menu and gets user input; ```max=5```, ```min=1```. You *also* have a ```budget()``` method that gets a dollar value; ```min=0```.
