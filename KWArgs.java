@@ -13,8 +13,6 @@ public class KWArgs {
     // Example
     public static void main(String[] args) {
         isInRange("num", 6, "min", 2, "max", 7);
-
-
     } // end main()
 
     // Example
