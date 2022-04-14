@@ -7,7 +7,7 @@ import java.util.NoSuchElementException;
 /**
  * Pass variables into methods based off name, not position. Inspired by Python's '**kwargs' magic variable.
  * 'KW' == 'Keyword'
- * 4/14/2022 Added support for default value arguments.
+ * 4/13/2022 Added support for default value arguments.
  */
 public class KWArgs {
     // Example
